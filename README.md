@@ -1,4 +1,6 @@
 | TEST | DEPLOY | 
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/ec890a49-a5f0-4b56-a55d-35bc2c030a56.svg?orgId=547292756607)](https://app.soluble.cloud/repos/details/github.com/bidnessforb/fibonacci-generator?orgId=547292756607)  
 |-------|-------|
 | ![](https://github.com/octodemov2/actions-deploy-demo/workflows/Build%20and%20Test%20ONLY%20for%20MASTER/badge.svg)  | ![](https://github.com/octodemov2/actions-deploy-demo/workflows/Build%20and%20package%20MASTER/badge.svg) |
 # fib-tools
